@@ -1,11 +1,11 @@
 def hello_world():
-    # Write some thing in the following doc string
+    # Write something in the following doc string:
     """
 
     """
 
     # Comment the following line
-   # Comment this line
+    Comment this line
 
     # Print "Hello, World"
     print("A")
@@ -13,6 +13,6 @@ def hello_world():
 def add(a,b):
 
     # Write simple code to add variable a and b
-    output=a+b
+    output=
 
     return output
